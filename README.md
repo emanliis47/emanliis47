@@ -5,7 +5,6 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFEq10EDjY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFEq10EDjY&#x2F;view?utm_content=DAFEq10EDjY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Web Development Promotion Instagram Post</a> by Github)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm SameerSweety Swain</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="how" width="400" src="https://tenor.com/view/programmer-gif-19019116.gif">
