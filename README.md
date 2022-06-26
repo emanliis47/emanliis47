@@ -1,4 +1,4 @@
-<img href="https://www.canva.com/design/DAFEq10EDjY/W0X_vY67do2XegYDKHF_sA/view?utm_content=DAFEq10EDjY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%">
+<img src="https://image.shutterstock.com/image-vector/programming-coding-banner-600w-505878856.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm SameerSweety Swain</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <h3>Glad to see you here!</h3>
@@ -39,6 +39,6 @@ I'm Sameer Swain. I'm doing as a trainee 🎓 from Functionup Bootcamp 🏛. I'm
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanliis47&show_icons=true&locale=en&layout=compact" alt="emanliis47" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanliis47&show_icons=true&locale=en" alt="emanliis47" /></p>
-[![emanliis47 GitHub stats](https://github-readme-stats.vercel.app/api?username=emanliis47)](https://github.com/emanliis47/github-readme-stats)
+
 
 
