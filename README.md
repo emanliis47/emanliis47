@@ -1,4 +1,4 @@
-<img src = "https://www.canva.com/design/DAFEq10EDjY/W0X_vY67do2XegYDKHF_sA/edit?utm_content=DAFEq10EDjY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+[![MasterHead](https://www.canva.com/design/DAFEq10EDjY/W0X_vY67do2XegYDKHF_sA/view?utm_content=DAFEq10EDjY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm SameerSweety Swain</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="how" width="400" src="https://tenor.com/view/programmer-gif-19019116.gif">
