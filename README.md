@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SameerSweety Swain</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h2 align="center">A passionate backend developer from India</h2>
 <h3>Glad to see you here!</h3>
 I'm Sameer Swain. I'm doing as a trainee 🎓 from Functionup Bootcamp 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Backend Development 🕸️ and working on Web Application 🤓.
-<img align="right" alt="how" width="400" src="https://tenor.com/view/programmer-gif-19019116.gif">
+<img align="left" alt="how" width="400" src="https://tenor.com/view/programmer-gif-19019116.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanliis47&label=Profile%20views&color=0e75b6&style=flat" alt="emanliis47" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanliis47" alt="emanliis47" /></a> </p>
