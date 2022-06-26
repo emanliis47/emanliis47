@@ -39,5 +39,6 @@ I'm Sameer Swain. I'm doing as a trainee 🎓 from Functionup Bootcamp 🏛. I'm
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanliis47&show_icons=true&locale=en&layout=compact" alt="emanliis47" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanliis47&show_icons=true&locale=en" alt="emanliis47" /></p>
+[![emanliis47 GitHub stats](https://github-readme-stats.vercel.app/api?username=emanliis47)](https://github.com/anuraghazra/github-readme-stats)
 
 
