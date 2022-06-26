@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg)
+<img src="https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm SameerSweety Swain</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <h3>Glad to see you here!</h3>
