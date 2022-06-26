@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg" width="100%">
+<img src="https://www.canva.com/design/DAFEq10EDjY/W0X_vY67do2XegYDKHF_sA/view?utm_content=DAFEq10EDjY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%">
 <h1 align="center">Hi 👋, I'm SameerSweety Swain</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <h3>Glad to see you here!</h3>
