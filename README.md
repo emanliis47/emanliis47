@@ -1,6 +1,8 @@
 [![MasterHead](https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg)
 <h1 align="center">Hi 👋, I'm SameerSweety Swain</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+Glad to see you here!
+I'm Sameer Swain. I'm doing as a trainee 🎓 from Functionup Bootcamp 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Backend Development 🕸️ and working on Web Application 🤓.
 <img align="right" alt="how" width="400" src="https://tenor.com/view/programmer-gif-19019116.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanliis47&label=Profile%20views&color=0e75b6&style=flat" alt="emanliis47" /> </p>
 
