@@ -1,4 +1,4 @@
-<img src="https://image.shutterstock.com/image-vector/programming-coding-banner-600w-505878856.jpg" width="100%">
+<img src="https://image.shutterstock.com/image-vector/electronics-engineering-hardware-programming-learning-600w-1790739893.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm SameerSweety Swain</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <h3>Glad to see you here!</h3>
